@@ -1,0 +1,30 @@
+h1 {
+ color: blueviolet;
+ text-align: center
+}
+
+h2 {
+    color: blue;
+
+}
+
+body {
+    background-color: rgb(184, 216, 205);
+    font-family: sans-serif;
+    background-size: contain;
+    
+}
+
+.liste {
+    background-color: white;
+}
+
+.Liens {
+    background-color: white;
+}
+
+.photo {
+    background-color: white;
+    padding-left: auto;
+    padding-right: auto;
+}
